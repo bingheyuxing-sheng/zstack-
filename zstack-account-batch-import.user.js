@@ -1003,8 +1003,7 @@
         dlTmpl.addEventListener('click', function () {
             download('userimport.csv',
                 '\uFEFF学号,姓名,密码,班级\n' +
-                '202522050969,张三,,一班\n' +
-                '202522050970,李四,Abc@123456,二班\n',
+                'xxxx,张三,,一班\n',
                 'text/csv;charset=utf-8');
         });
         controls.appendChild(dlTmpl);
