@@ -1,0 +1,14 @@
+# 抓包文件 / 数据文件（含敏感信息，不提交）
+*.har
+*.csv
+*.xlsx
+*.xls
+*.txt
+
+# OS / IDE 杂项
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
